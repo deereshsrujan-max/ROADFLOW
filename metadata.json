@@ -1,5 +1,5 @@
 {
-  "name": "TrafficFlow - Live GPS & Traffic Control",
+  "name": "Road Flow",
   "description": "Real-time GPS location tracking, live traffic flow layer, radius congestion scanner, and turn-by-turn navigation.",
   "requestFramePermissions": [
     "geolocation"
